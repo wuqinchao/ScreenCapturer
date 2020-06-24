@@ -1,0 +1,11 @@
+D:\GitHub\SharpShare\ScreenCapturer\bin\Debug\ScreenCapturer.exe.config
+D:\GitHub\SharpShare\ScreenCapturer\bin\Debug\ScreenCapturer.exe
+D:\GitHub\SharpShare\ScreenCapturer\bin\Debug\ScreenCapturer.pdb
+D:\GitHub\SharpShare\ScreenCapturer\obj\Debug\ScreenCapturer.csprojAssemblyReference.cache
+D:\GitHub\SharpShare\ScreenCapturer\obj\Debug\ScreenCapturer.Form1.resources
+D:\GitHub\SharpShare\ScreenCapturer\obj\Debug\ScreenCapturer.FScreen.resources
+D:\GitHub\SharpShare\ScreenCapturer\obj\Debug\ScreenCapturer.Properties.Resources.resources
+D:\GitHub\SharpShare\ScreenCapturer\obj\Debug\ScreenCapturer.csproj.GenerateResource.cache
+D:\GitHub\SharpShare\ScreenCapturer\obj\Debug\ScreenCapturer.csproj.CoreCompileInputs.cache
+D:\GitHub\SharpShare\ScreenCapturer\obj\Debug\ScreenCapturer.exe
+D:\GitHub\SharpShare\ScreenCapturer\obj\Debug\ScreenCapturer.pdb
